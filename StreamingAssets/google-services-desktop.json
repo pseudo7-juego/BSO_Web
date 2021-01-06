@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "749352925228",
+    "firebase_url": "https://beedie-launch-day.firebaseio.com",
+    "project_id": "beedie-launch-day",
+    "storage_bucket": "beedie-launch-day.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749352925228:android:50071a33f1bf13b04bf989",
+        "android_client_info": {
+          "package_name": "com.beedie.studentorientationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749352925228-au3mllm1i00d5eqga1t4rebvq9tiokh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnZuuFBtK4o_iXSKgbRwOpOoU4ss0Gdug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749352925228-au3mllm1i00d5eqga1t4rebvq9tiokh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
