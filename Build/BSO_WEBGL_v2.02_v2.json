@@ -1,0 +1,17 @@
+{
+"companyName": "Juego studio",
+"productName": "Beedie Student Orientation",
+"productVersion": "2.2",
+"dataUrl": "BSO_WEBGL_v2.02_v2.data.unityweb",
+"wasmCodeUrl": "BSO_WEBGL_v2.02_v2.wasm.code.unityweb",
+"wasmFrameworkUrl": "BSO_WEBGL_v2.02_v2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "BSO_WEBGL_v2.02_v2.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}
